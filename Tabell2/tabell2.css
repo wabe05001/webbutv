@@ -1,0 +1,22 @@
+
+table{
+    border:solid black;
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+}
+.one{
+    background-color: blue;
+}
+.two{
+    background-color: red;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color:black ;
+}
+.five{
+    background-color: green;
+}
